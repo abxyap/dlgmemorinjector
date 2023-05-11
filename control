@@ -1,0 +1,9 @@
+Package: cn.devileo.dlgmemor
+Name: DLGMemorInjector
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A memory editor and viewer for iOS
+Maintainer: alias20
+Author: DeviLeo
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
